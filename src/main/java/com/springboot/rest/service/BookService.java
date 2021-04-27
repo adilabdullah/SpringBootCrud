@@ -16,7 +16,7 @@ public class BookService {
 		lis.add(new Book(453,"Bilal","HTM:",452.65));
 		lis.add(new Book(124,"Salman","C#",643.54));
 		lis.add(new Book(241,"Noman","Puthon",134.34));
-		lis.add(new Book(376,"Imran","PHP",652.21));
+		lis.add(new Book(376,"Imran","PHP",652.21));  
 	}
 	
 	public List<Book> getAllBooks()
